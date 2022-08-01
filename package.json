@@ -1,0 +1,11 @@
+{
+  "name": "No_Name",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Mohammad Mudassir",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node script.js"
+  }
+}
